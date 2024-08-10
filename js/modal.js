@@ -1,6 +1,4 @@
-
-
-const button = document.querySelector(".hero-button");
+const button = document.querySelector(".hero-btn");
 const backdrop = document.querySelector(".overlay");
 
 button.addEventListener("click", toggleModal);
